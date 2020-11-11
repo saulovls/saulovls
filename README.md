@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
 
-<!--
-**vicelao/vicelao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello world! I'm Saulo Lessa 👾
+---
+Front-end | Ex Programador ABAP :robot:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de bootcamps do IGTI e Digital Innovation One. Tô começando a colocar meus códigos agora por aqui, porque fiquei perdido com soluções próprias do SAP por um bom tempo. :man_technologist:
+
+
+### Sobre mim 
+---
+- 💻 Trabalhando com Next.js e NodeJS em um projeto mega secreto
+- 📚 Estudando Angular, NextJS, NodeJS e Java
+- 🤯 Sempre quebrando a cabeça com problemas que eu mesmo crio pra tentar resolver
+- 🐱‍🏍 E eu adoraria ter uma conversa massa sobre tecnologia com você
+
+---
+#### Made with 🖤 by Vicelão. 
