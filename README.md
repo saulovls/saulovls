@@ -10,7 +10,7 @@ Estudante de bootcamps do IGTI e Digital Innovation One. Tô começando a coloca
 
 ### Sobre mim 
 ---
-- 💻 Trabalhando com Next.js e NodeJS em um projeto mega secreto
+- 💻 Trabalhando com Next.js em um projeto mega secreto
 - 📚 Estudando Angular, NextJS, NodeJS e Java
 - 🤯 Sempre quebrando a cabeça com problemas que eu mesmo crio pra tentar resolver
 - 🐱‍🏍 E eu adoraria ter uma conversa massa sobre tecnologia com você
