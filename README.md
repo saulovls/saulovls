@@ -3,7 +3,7 @@
 
 ### Hello world! I'm Saulo Lessa 👾
 ---
-Front-end | Ex Programador ABAP :robot:.
+Desenvolvedor de interfaces | Ex Programador ABAP :robot:.
 
 Estudante de bootcamps do IGTI e Digital Innovation One. Tô começando a colocar meus códigos agora por aqui, porque fiquei "perdido" com soluções próprias do SAP por um bom tempo. :man_technologist:
 
