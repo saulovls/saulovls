@@ -3,17 +3,19 @@
 
 ### Hello world! I'm Saulo Lessa 👾
 ---
-Web Developer | Ex Programador ABAP :robot:.
+Front-end Engineer | UI Developer.
 
-Estudante de bootcamps do IGTI e Digital Innovation One. Tô começando a colocar meus códigos agora por aqui, porque fiquei "perdido" com soluções próprias do SAP por um bom tempo. :man_technologist:
+Estudante de bootcamps do IGTI e Digital Innovation One. Tô começando a colocar meus códigos agora por aqui, porque fiquei "perdido" com soluções próprias do SAP por um bom tempo, já que programava em ABAP. :man_technologist:
 
 
 ### Sobre mim 
 ---
-- 💻 Trabalhando com Next.js em um projeto mega secreto
-- 📚 Estudando Angular, Next.js, Java e Node.js
+
+- 💻 Trabalhando como Desenvolvedor Angular Pleno na Avanade
+- 🔒 Desenvolvendo com Angular 2+, Node e MongoDB um projeto mega secreto
+- 📚 Estudando Angular 2+, Next.js, Java e Node.js
 - 🤯 Sempre quebrando a cabeça com problemas que eu mesmo crio pra tentar resolver
 - 🐱‍🏍 E eu adoraria ter uma conversa massa sobre tecnologia com você
 
 ---
-#### Made with 🖤 by Vicelão. 
+#### Made with 🖤 by Saulo Lessa. 
