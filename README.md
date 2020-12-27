@@ -12,7 +12,7 @@ Estudante de bootcamps do IGTI e Digital Innovation One. Tô começando a coloca
 ---
 
 - 💻 Trabalhando como Desenvolvedor Angular Pleno na Avanade
-- 🔒 Desenvolvendo com Angular 2+, Node e MongoDB um projeto mega secreto
+- 🔒 Desenvolvendo com Angular 2+, Node e MongoDB um projeto secreto
 - 📚 Estudando Angular 2+, Next.js, Java e Node.js
 - 🤯 Sempre quebrando a cabeça com problemas que eu mesmo crio pra tentar resolver
 - 🐱‍🏍 E eu adoraria ter uma conversa massa sobre tecnologia com você
