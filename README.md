@@ -11,7 +11,7 @@ Estudante de bootcamps do IGTI e Digital Innovation One. Tô começando a coloca
 ### Sobre mim 
 ---
 
-- 💻 Trabalhando como Desenvolvedor Angular Pleno na [@Avanade](https://github.com/Avanade)
+- 💻 Trabalhando como Dev Angular Pleno na [@Avanade](https://github.com/Avanade)
 - 📚 Estudando Next.js e Node.js para uns projetos pessoais
 - 🤯 Sempre quebrando a cabeça com problemas que eu mesmo crio pra tentar resolver
 - 🐱‍🏍 E eu adoraria ter uma conversa massa sobre tecnologia com você
