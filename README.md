@@ -3,16 +3,15 @@
 
 ### Hello world! I'm Saulo Lessa 👾
 ---
-Front-end Engineer | UI Developer.
+Front-end Developer | IT Developer +.
 
-Estudante de bootcamps do IGTI e Digital Innovation One. Tô começando a colocar meus códigos agora por aqui, porque fiquei "perdido" com soluções próprias do SAP por um bom tempo, já que programava em ABAP. :man_technologist:
-
+Experiência em tecnologias SAP, JavaScript ES6+, Next.js, Angular 2+, UI Development e DevOps. :man_technologist:
 
 ### Sobre mim 
 ---
 
-- 💻 Trabalhando como Dev Angular Pleno na [@Avanade](https://github.com/Avanade)
-- 📚 Estudando Next.js e Node.js para uns projetos pessoais
+- 💻 Trabalhando como Dev Angular Pleno no [@Santander Brasil](https://www.santander.com.br)
+- 📚 Estudando Node.js para uns projetos pessoais
 - 🤯 Sempre quebrando a cabeça com problemas que eu mesmo crio pra tentar resolver
 - 🐱‍🏍 E eu adoraria ter uma conversa massa sobre tecnologia com você
 
