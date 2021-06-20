@@ -10,7 +10,7 @@ Experiência em tecnologias SAP, JavaScript ES6+, Node.js, Angular 2+, UI Develo
 ### Sobre mim 
 ---
 
-- 💻 Trabalhando como IT Developer + (Front-end Angular Pleno) no [@Santander Brasil](https://www.santander.com.br)
+- 💻 Trabalhando como IT Developer + no [@Santander Brasil](https://www.santander.com.br)
 - 📚 Estudando Node.js para uns projetos pessoais
 - 🤯 Sempre quebrando a cabeça com problemas que eu mesmo crio pra tentar resolver
 - 🐱‍🏍 E eu adoraria ter uma conversa massa sobre tecnologia com você
