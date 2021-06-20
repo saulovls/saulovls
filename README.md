@@ -5,7 +5,7 @@
 ---
 Front-end Developer | IT Developer +.
 
-Experiência em tecnologias SAP, JavaScript ES6+, Next.js, Angular 2+, UI Development e DevOps. :man_technologist:
+Experiência em tecnologias SAP, JavaScript ES6+, Node.js, Angular 2+, UI Development e DevOps. :man_technologist:
 
 ### Sobre mim 
 ---
