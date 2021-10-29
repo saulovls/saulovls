@@ -5,7 +5,7 @@
 ---
 Front-end Engineer | UI Developer
 
-Experiência em tecnologias SAP, JavaScript ES6+, Node.js, Angular 2+, UI Development e DevOps. :man_technologist:
+Amplo conhecimento em tecnologias web como JavaScript, Angular 2+, React e Node.js com TypeScript. :man_technologist:
 
 ### Sobre mim 
 ---
