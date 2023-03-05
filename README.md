@@ -10,8 +10,8 @@ Amplo conhecimento em tecnologias web como JavaScript, Angular 2+, React e Node.
 ### Sobre mim 
 ---
 
-- 💻 Trabalhando como IT Developer + no [@Santander Brasil](https://www.santander.com.br)
-- 📚 Estudando Node.js para uns projetos pessoais
+- 💻 Trabalhando como Tech Lead no [@Santander Brasil](https://www.santander.com.br)
+- 📚 Estudando Node.js com Fastify para uns projetos pessoais
 - 🤯 Sempre quebrando a cabeça com problemas que eu mesmo crio pra tentar resolver
 - 🐱‍🏍 E eu adoraria ter uma conversa massa sobre tecnologia com você
 
